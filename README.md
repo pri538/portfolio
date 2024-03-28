@@ -78,9 +78,15 @@ experience by redefining the paradigm for user-machine interaction.Tech: Google 
 LangChain, Faiss-cpu, Google Colab, Jupyter, Python (Dec 24)
 
 ### Work Expertience
--Patenti Technology Solutions
--Avaari 
+**Avaari** : I have worked in Avaari Company as a machine learning engineer . I have completed my vritual internship.(Aug
+2023-Sep 2023)
 
-### Projects
-Credit Card Fraud Detection 
+
+**Patenti Technology Solutions**: I have worked in Patenti Technology Solutions as a machine learning engineer. I have
+completed my virtual internship .(Jun 2023- July 2023) 
+
+
+ ### Achievements
+I have been shortlisted for girl script summer of code 2022. I have solveed 1100 plus DSA question on geeks for geeks.I have solved 730 plus DSA question on leetcode and i have been awarded Top Interview
+150 badge,July Badge, August Badge ,September Badge, December Badge, Jan Badge, Feb Badge, 50 Days Badge, 100 Days Badge and Leetcode 75 badge,Leetcode SQL 50 Badge. I have been certified by Hacktoberfest2k23 for completing more than 4 PR. I have been certified by Google Cloud Arcade Event 2k23 for completing . I have solved 485 DSA question on interview bit. I have solved 300 DSA question on coding ninja.
 
