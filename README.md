@@ -32,6 +32,22 @@ July 2018 - March 2019
 **Technical Skills**: Machine Learning, Deep Learning, NLP, Data Science, Data Analyst, Tensorflow, Keras, Generative AI, Python Libraries, Excel, Visualization Tools
 
 
+### Certificates
+**Python Basics**
+Issued By Hacker Rank Organization Sep 2023
+
+
+**SQL Advanced**
+Issued By Hacker Rank Organization Sep 2023
+
+
+**Excel For Intermediate Level**
+I have been Certified By Great Learning on Completion of Excel For Intermediate Level Course Sep 2023
+
+
+**Machine Learning With Python**
+I have been Certified By Great Learning on Completion of Machine Learning With Python Course Sep 2023
+
 
 ### Work Expertience
 -Patenti Technology Solutions
