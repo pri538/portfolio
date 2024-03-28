@@ -85,6 +85,7 @@ LangChain, Faiss-cpu, Google Colab, Jupyter, Python (Dec 24)
 **Patenti Technology Solutions**: I have worked in Patenti Technology Solutions as a machine learning engineer. I have
 completed my virtual internship .(Jun 2023- July 2023) 
 
+**[Visit my LinkedIn profile]** : (https://www.linkedin.com/in/prachi-sharma-b99244228/)
 
  ### Achievements
 I have been shortlisted for girl script summer of code 2022. I have solveed 1100 plus DSA question on geeks for geeks.I have solved 730 plus DSA question on leetcode and i have been awarded Top Interview
