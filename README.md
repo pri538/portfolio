@@ -96,9 +96,13 @@ I have been shortlisted for girl script summer of code 2022. I have solveed 1100
 
 **Visit my Twitter profile** : (https://twitter.com/Prachi112001)
 
+**Visit my Github profile** : (https://github.com/pri538)
+
 **Visit my Leetcode profile** : (https://leetcode.com/CoderPiu/)
 
 **Visit my GFG profile** : (https://auth.geeksforgeeks.org/user/prachi20204138)
 
 **Visit my Coding Ninja profile** : (https://www.naukri.com/code360/profile/56c943da-bb32-494f-9599-8ea050a4c8f8)
+
+
 
