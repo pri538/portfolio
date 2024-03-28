@@ -87,8 +87,9 @@ completed my virtual internship .(Jun 2023- July 2023)
 
 
  ### Achievements
-I have been shortlisted for girl script summer of code 2022. I have solveed 1100 plus DSA question on geeks for geeks.I have solved 730 plus DSA question on leetcode and i have been awarded Top Interview
-150 badge,July Badge, August Badge ,September Badge, December Badge, Jan Badge, Feb Badge, 50 Days Badge, 100 Days Badge and Leetcode 75 badge,Leetcode SQL 50 Badge. I have been certified by Hacktoberfest2k23 for completing more than 4 PR. I have been certified by Google Cloud Arcade Event 2k23 for completing . I have solved 485 DSA question on interview bit. I have solved 300 DSA question on coding ninja.
+
+**I have been shortlisted for girl script summer of code 2022. I have solveed 1100 plus DSA question on geeks for geeks.I have solved 730 plus DSA question on leetcode and i have been awarded Top Interview
+150 badge,July Badge, August Badge ,September Badge, December Badge, Jan Badge, Feb Badge, 50 Days Badge, 100 Days Badge and Leetcode 75 badge,Leetcode SQL 50 Badge. I have been certified by Hacktoberfest2k23 for completing more than 4 PR. I have been certified by Google Cloud Arcade Event 2k23 for completing . I have solved 485 DSA question on interview bit. I have solved 300 DSA question on coding ninja.**
 
 
 ### Links
