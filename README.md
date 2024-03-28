@@ -1,6 +1,6 @@
 #Data Scientist
 ### Education
--Motilal Nehru National Institue Of Technology Allahabad, India
+Motilal Nehru National Institue Of Technology Allahabad, India
 -Bachelor of Technology - Computer Science; CPI: 7.32                                           Dec 2020 - June 2024
 -Courses: Operating Systems, Data Structures, Analysis Of Algorithms, Networking, Databases
 
