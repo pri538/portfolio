@@ -50,6 +50,8 @@ I have been Certified By Great Learning on Completion of Machine Learning With P
 
 
 ###Projects
+
+
 **Heart Attack Prediction** : Main goal of the project is to develop a machine learning model that can predict the likelihood
 of a person experiencing a heart attack based on various medical and demographic features. This type of project is essential for
 early detection and prevention of heart diseases, which are a leading cause of death worldwide. Tech: Machine Learning,
