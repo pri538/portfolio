@@ -20,6 +20,18 @@ July 2015 - March 2016
 
 July 2018 - March 2019
 
+### Skills Summary
+**Languages**: Python,C,C++,JAVA
+
+**Tools**: Power BI,Tableau,GIT
+
+**Hard Skills**: Data Structure and Algorithm,Object Oriented Programming, DBMS, Operating System, Computer Network
+
+**Soft Skills**: Public Speaking, Time Management, Team Spirit,Leadership, Project Management,Data Analytics,Google Analytics,Business Analysis
+
+**Technical Skills**: Machine Learning, Deep Learning, NLP, Data Science, Data Analyst, Tensorflow, Keras, Generative AI, Python Libraries, Excel, Visualization Tools
+
+
 
 ### Work Expertience
 -Patenti Technology Solutions
