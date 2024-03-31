@@ -77,6 +77,35 @@ APIs and making sure sensitive data is not accessible to outside parties. Provid
 experience by redefining the paradigm for user-machine interaction.Tech: Google Speech Recognition, Python PyAudio,
 LangChain, Faiss-cpu, Google Colab, Jupyter, Python (Dec 24)
 
+**Credit Card Fraud Detection** :The primary objective of this project is to design and implement a robust credit card fraud 
+detection system capable of accurately identifying fraudulent transactions in real-time. By employing advanced deep learning 
+and machine learning techniques, the system aims to enhance detection accuracy, reduce false positives, and improve overall 
+operational efficiency for financial institutions.Tech: Machine Learning, Deep Learning, Python, Kaggle, Google Colab, Numpy,
+Seaborn (Dec 24)
+
+
+**Country GDP** :The primary objective of this project is to design and implement a robust GDP prediction model capable of
+accurately forecasting the economic growth of countries. By leveraging advanced deep learning and machine learning techniques,
+the model aims to capture intricate relationships between various economic indicators and external factors to improve 
+prediction accuracy over traditional methods.Tech: Machine Learning, Python, Kaggle, Google Colab, Numpy,
+Seaborn (Dec 24)
+
+
+**Mental Analysis Using SQL** :The primary objective of this project is to determine the percentage of employees who have 
+disclosed having a mental health disorder to their employer or coworkers. By analyzing specific survey questions related to
+mental health discussions and demographic information, we can gain insights into disclosure patterns among employees, 
+particularly in the tech industry within the USA.Tech: Machine Learning, Python, SQL, Kaggle, Google Colab, Numpy,
+Seaborn,Matplotlib (Dec 24)
+
+
+**Murder History Using SQL** :In this project, we delve into a murder investigation, leveraging SQL queries to sift through 
+pertinent data and unravel crucial details surrounding the crime. Our objective is to meticulously analyze various aspects 
+of the case, including witness testimonies, suspect identification, event attendance, and ultimately, uncover the
+orchestrator behind the heinous act..Tech:Python, SQL, Kaggle, Google Colab, Numpy,
+Seaborn,Matplotlib (Dec 24)
+
+
+
 ### Work Expertience
 **Avaari** : I have worked in Avaari Company as a machine learning engineer . I have completed my vritual internship.(Aug
 2023-Sep 2023)
